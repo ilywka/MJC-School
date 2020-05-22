@@ -1,14 +1,14 @@
-# Task Name
+# REST API Basics
 
-Task description
+Develop simple REST service.
 
 ## Sub-module #1
 
-Sub-module description
+Sub-module description ???
 
 ### Task #1
 
-Task description & conditions
+
 
 ### Materials (Videos & Links)
 
